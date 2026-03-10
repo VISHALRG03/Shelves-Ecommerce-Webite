@@ -1,0 +1,796 @@
+[
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/d/r/r/-original-imaghsggbdxpvs9c.jpeg?q=70",
+      "brand": "NIVIA",
+      "title": "Ace Walking Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 1199,
+      "price": 2399,
+      "discountPersent": 50,
+      "size": [
+        { "name": "7", "quantity": 20 },
+        { "name": "8", "quantity": 30 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "High-quality walking shoes designed for comfort and durability. Perfect for daily walks and casual outings with excellent cushioning and support."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/s/i/l/10-2031-blu-wht-44-bruton-blue-original-imagfmdubtgj8ebj-bb.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "Trendy Running Shoes Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 349,
+      "price": 1299,
+      "discountPersent": 73,
+      "size": [
+        { "name": "7", "quantity": 15 },
+        { "name": "8", "quantity": 25 },
+        { "name": "9", "quantity": 20 },
+        { "name": "10", "quantity": 10 }
+      ],
+      "quantity": 70,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Stylish running shoes with modern design and comfortable fit. Ideal for running, jogging, and athletic activities."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/d/m/z/-original-imagg7t26zdugnx8.jpeg?q=70",
+      "brand": "KILLER",
+      "title": "22509-T. Blue Phylon Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 976,
+      "price": 2499,
+      "discountPersent": 60,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 30 },
+        { "name": "10", "quantity": 25 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Performance running shoes with Phylon technology for enhanced comfort and shock absorption during high-impact activities."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/x/u/7/-original-imagg6rc839zxhw4.jpeg?q=70",
+      "brand": "CAMPUS",
+      "title": "NORTH PLUS Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 1299,
+      "price": 1699,
+      "discountPersent": 23,
+      "size": [
+        { "name": "7", "quantity": 15 },
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Durable running shoes built for long-distance running with excellent grip and stability features."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/y/i/n/7-brd-911-7-birde-navy-original-imaghq8zakm4mmgn.jpeg?q=70",
+      "brand": "BIRDE",
+      "title": "Premium Navy Sports Shoes For Men Walking Shoes For Men",
+      "color": "Navy Blue",
+      "discountedPrice": 715,
+      "price": 1999,
+      "discountPersent": 64,
+      "size": [
+        { "name": "7", "quantity": 20 },
+        { "name": "8", "quantity": 30 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Premium sports shoes designed for walking and light exercises with superior comfort and style."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/u/z/q/-original-imagn24jy9bnpjsn.jpeg?q=70",
+      "brand": "Reebok",
+      "title": "Propulsion 2.0 M Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 1199,
+      "price": 2799,
+      "discountPersent": 57,
+      "size": [
+        { "name": "8", "quantity": 25 },
+        { "name": "9", "quantity": 30 },
+        { "name": "10", "quantity": 25 },
+        { "name": "11", "quantity": 20 }
+      ],
+      "quantity": 100,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Advanced running shoes with Propulsion technology for better energy return and enhanced running performance."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/krz97rk0/shoe/p/w/8/11-54610-12-skechers-nvgy-original-imag5n6rkkmrhtqf.jpeg?q=70",
+      "brand": "Skechers",
+      "title": "Go Walk Max-Precision Walking Shoes For Men",
+      "color": "Grey",
+      "discountedPrice": 2657,
+      "price": 5299,
+      "discountPersent": 49,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Premium walking shoes with maximum comfort technology, perfect for long walks and daily use."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/o/v/e/6-rng-512-black-40-bruton-black-original-imagexnpgzqzzbze-bb.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "Trendy Sports Running Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 299,
+      "price": 1299,
+      "discountPersent": 76,
+      "size": [
+        { "name": "7", "quantity": 30 },
+        { "name": "8", "quantity": 40 },
+        { "name": "9", "quantity": 35 },
+        { "name": "10", "quantity": 25 }
+      ],
+      "quantity": 130,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Affordable and trendy sports shoes suitable for running, walking, and casual wear with modern styling."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/knt7zbk0/shoe/m/r/r/7-5g-845-campus-gry-d-gry-original-imag2eynkpzvz6tf.jpeg?q=70",
+      "brand": "CAMPUS",
+      "title": "MIKE (N) Running Shoes For Men",
+      "color": "Grey",
+      "discountedPrice": 942,
+      "price": 1699,
+      "discountPersent": 44,
+      "size": [
+        { "name": "7", "quantity": 20 },
+        { "name": "8", "quantity": 25 },
+        { "name": "9", "quantity": 30 },
+        { "name": "10", "quantity": 20 }
+      ],
+      "quantity": 95,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Lightweight running shoes designed for comfort and performance with breathable mesh upper."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/s/9/k/-original-imagg6r6yveqfsw9.jpeg?q=70",
+      "brand": "Asics",
+      "title": "GEL-CONTEND 4B Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 1693,
+      "price": 3999,
+      "discountPersent": 57,
+      "size": [
+        { "name": "8", "quantity": 15 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 75,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Professional running shoes with GEL technology for superior cushioning and shock absorption during runs."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/k6fd47k0pkrrdj/shoe/x/g/s/9-cdnyafqbdq-world-wear-footwear-original-imafzrkveuhdgdy7.jpeg?q=70",
+      "brand": "World Wear Footwear",
+      "title": "Combo Pack of 2 Latest Collection Stylish casual Sports...",
+      "color": "Multi-color",
+      "discountedPrice": 399,
+      "price": 998,
+      "discountPersent": 60,
+      "size": [
+        { "name": "8", "quantity": 25 },
+        { "name": "9", "quantity": 35 },
+        { "name": "10", "quantity": 30 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Value pack of 2 stylish casual sports shoes perfect for everyday wear and light athletic activities."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/ksxjs7k0/shoe/o/g/7/9-6g-842-campus-blk-n-org-original-imag6dzwz7hdwgxh.jpeg?q=70",
+      "brand": "CAMPUS",
+      "title": "HURRICANE Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 759,
+      "price": 1299,
+      "discountPersent": 41,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 30 },
+        { "name": "10", "quantity": 25 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Performance-oriented running shoes designed for speed and comfort with enhanced traction."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kzblocw0/shoe/l/i/f/9-crystal-13cblkrd-asian-black-original-imagbdaykm9wfnmz.jpeg?q=70",
+      "brand": "asian",
+      "title": "Crystal-13 Black Sports Transparent Sole Technology For...",
+      "color": "Black",
+      "discountedPrice": 1259,
+      "price": 2299,
+      "discountPersent": 45,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Innovative sports shoes with transparent sole technology offering unique style and comfort."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l08gsy80/shoe/n/a/n/9-assg1015-9-abros-l-grey-maroon-original-imagc2m9zbzmtybx.jpeg?q=70",
+      "brand": "Abros",
+      "title": "ASSG1015N Running Shoes For Men",
+      "color": "Grey",
+      "discountedPrice": 1455,
+      "price": 1599,
+      "discountPersent": 9,
+      "size": [
+        { "name": "8", "quantity": 15 },
+        { "name": "9", "quantity": 20 },
+        { "name": "10", "quantity": 25 },
+        { "name": "11", "quantity": 20 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Comfortable running shoes with stylish design, perfect for both athletic activities and casual wear."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/m/o/h/-original-imaggcawtbgvt7wy.jpeg?q=70",
+      "brand": "asian",
+      "title": "Oxygen-05 Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 1117,
+      "price": 1999,
+      "discountPersent": 44,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Breathable running shoes with oxygen flow technology for enhanced comfort during workouts."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kqidx8w0/shoe/i/4/n/6-brd-406-300-blue-6-birde-blue-original-imag4g8cmfkfzkjg.jpeg?q=70",
+      "brand": "BIRDE",
+      "title": "Combo Pack of 2 Sports Shoes Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 499,
+      "price": 998,
+      "discountPersent": 50,
+      "size": [
+        { "name": "8", "quantity": 30 },
+        { "name": "9", "quantity": 40 },
+        { "name": "10", "quantity": 35 }
+      ],
+      "quantity": 105,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Economical combo pack of 2 sports shoes offering great value for money with versatile styling."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/g/i/g/10-rng-2021-blu-orng-44-bruton-blue-orange-original-imagdzcpzhscxwhg-bb.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "Trendy Sports Running Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 299,
+      "price": 1299,
+      "discountPersent": 76,
+      "size": [
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 25 },
+        { "name": "12", "quantity": 20 }
+      ],
+      "quantity": 100,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Vibrant colored sports shoes with trendy design suitable for running and casual outdoor activities."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l4rd0280/shoe/m/d/e/6-rk-494-grey-orange-40-bruton-grey-orange-original-imagfha9ssgydnef.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "Sports shoes for men | Latest Stylish Casual for men |r...",
+      "color": "Grey",
+      "discountedPrice": 249,
+      "price": 1299,
+      "discountPersent": 80,
+      "size": [
+        { "name": "7", "quantity": 30 },
+        { "name": "8", "quantity": 35 },
+        { "name": "9", "quantity": 40 },
+        { "name": "10", "quantity": 25 }
+      ],
+      "quantity": 130,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Highly discounted casual sports shoes with stylish grey and orange combination for everyday wear."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/c/k/k/gm1251-43-good-minar-black-original-imaft34ej4zx2z63-bb.jpeg?q=70",
+      "brand": "aadi",
+      "title": "Mesh |Lightweight|Comfort|Summer|Trendy|Walking|Outdoor...",
+      "color": "Black",
+      "discountedPrice": 199,
+      "price": 999,
+      "discountPersent": 80,
+      "size": [
+        { "name": "8", "quantity": 40 },
+        { "name": "9", "quantity": 50 },
+        { "name": "10", "quantity": 35 },
+        { "name": "11", "quantity": 25 }
+      ],
+      "quantity": 150,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Lightweight mesh shoes perfect for summer with excellent breathability and comfort for walking."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/kuzuoi80/shoe/2/k/x/7-brd-574-brd-575-7-birde-multicolor-original-imag7zx8epryeskm.jpeg?q=70",
+      "brand": "BIRDE",
+      "title": "Trendy Sport Shoes For Men Pack Of 2 Running Shoes For ...",
+      "color": "Multi-color",
+      "discountedPrice": 499,
+      "price": 1498,
+      "discountPersent": 66,
+      "size": [
+        { "name": "8", "quantity": 25 },
+        { "name": "9", "quantity": 35 },
+        { "name": "10", "quantity": 30 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Colorful pack of 2 sport shoes offering variety and style for different occasions and outfits."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/1/8/p/-original-imaghvb7kkpy73vn.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "Trendy Sports Running Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 249,
+      "price": 1299,
+      "discountPersent": 80,
+      "size": [
+        { "name": "8", "quantity": 35 },
+        { "name": "9", "quantity": 40 },
+        { "name": "10", "quantity": 35 },
+        { "name": "11", "quantity": 20 }
+      ],
+      "quantity": 130,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Budget-friendly sports running shoes with premium look and comfortable fit for daily use."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/q/r/j/-original-imagzjg25cg9wsrj.jpeg?q=70",
+      "brand": "CAMPUS",
+      "title": "MIKE (N) Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 949,
+      "price": 1699,
+      "discountPersent": 44,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Reliable running shoes with durable construction and comfortable cushioning for regular runners."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/p/l/8-9326-8-world-wear-footwear-yellow-original-imagmengqep9gbwu.jpeg?q=70",
+      "brand": "World Wear Footwear",
+      "title": "Affordable Range of Stylish Casual Walking Comfortable ...",
+      "color": "Yellow",
+      "discountedPrice": 249,
+      "price": 998,
+      "discountPersent": 75,
+      "size": [
+        { "name": "8", "quantity": 25 },
+        { "name": "9", "quantity": 30 },
+        { "name": "10", "quantity": 25 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Bright yellow casual walking shoes offering comfort and style at an affordable price point."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/1/s/j/8-east-8-jqr-l-gry-original-imagjueg2zfewfpg.jpeg?q=70",
+      "brand": "JQR",
+      "title": "EAST COOLSENSE lightweight, trenndy stylish,strechable,...",
+      "color": "Grey",
+      "discountedPrice": 811,
+      "price": 1249,
+      "discountPersent": 35,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Lightweight and stretchable shoes with cool sense technology for maximum comfort in warm weather."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/s/j/9/-original-imaghrfzmsz9e6kh.jpeg?q=70",
+      "brand": "NIVIA",
+      "title": "Super Court 2.0 Badminton Shoes For Men",
+      "color": "White",
+      "discountedPrice": 1047,
+      "price": 1999,
+      "discountPersent": 47,
+      "size": [
+        { "name": "8", "quantity": 15 },
+        { "name": "9", "quantity": 20 },
+        { "name": "10", "quantity": 25 },
+        { "name": "11", "quantity": 20 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Professional badminton shoes with court grip technology and lateral support for indoor sports."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l4oi4cw0/shoe/g/u/e/6-blk-482-40-bruton-black-red-original-imagfgp97vzhyne2.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "Trendy Sports Running Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 249,
+      "price": 1299,
+      "discountPersent": 80,
+      "size": [
+        { "name": "8", "quantity": 30 },
+        { "name": "9", "quantity": 35 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 25 }
+      ],
+      "quantity": 120,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Sporty black and red running shoes with aggressive styling and comfortable fit for active use."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l0igvww0/shoe/j/x/z/7-brd-678-7-birde-blue-original-imagca7bcj6p99gw.jpeg?q=70",
+      "brand": "BIRDE",
+      "title": "Stylish Comfortable Lightweight, Breathable Black Runni...",
+      "color": "Blue",
+      "discountedPrice": 299,
+      "price": 999,
+      "discountPersent": 70,
+      "size": [
+        { "name": "8", "quantity": 25 },
+        { "name": "9", "quantity": 30 },
+        { "name": "10", "quantity": 25 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Breathable running shoes designed for comfort during long runs with lightweight construction."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/i/k/r/-original-imaghugwugwyczwc.jpeg?q=70",
+      "brand": "asian",
+      "title": "Future-01 running shoes For Men",
+      "color": "Grey",
+      "discountedPrice": 514,
+      "price": 999,
+      "discountPersent": 48,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Futuristic design running shoes with modern aesthetics and performance features for athletes."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/r/j/c/-original-imaghvb8a8hjrfmr.jpeg?q=70",
+      "brand": "CAMPUS",
+      "title": "STREET-RUN Running Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 1329,
+      "price": 1799,
+      "discountPersent": 26,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Street-style running shoes combining urban fashion with athletic performance capabilities."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/9/h/e/10-bd-1191bl-10-nivia-blue-original-imagndzhu9sgpyzf.jpeg?q=70",
+      "brand": "NIVIA",
+      "title": "Badminton Shoes For Men",
+      "color": "Blue",
+      "discountedPrice": 896,
+      "price": 1120,
+      "discountPersent": 20,
+      "size": [
+        { "name": "8", "quantity": 15 },
+        { "name": "9", "quantity": 20 },
+        { "name": "10", "quantity": 25 },
+        { "name": "11", "quantity": 20 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Specialized badminton shoes with non-marking soles and excellent grip for indoor court sports."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/h/e/7-rng-2cmb-2031-551-41-bruton-blue-white-original-imaggameyhax2hwu.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "omboPack of-2 | sports shoes for men |walking, gym, tre...",
+      "color": "Blue",
+      "discountedPrice": 499,
+      "price": 2499,
+      "discountPersent": 80,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 }
+      ],
+      "quantity": 65,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Value pack offering 2 pairs of sports shoes suitable for multiple activities including gym and walking."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/r/j/e/-original-imagmuc8gfb7heya.jpeg?q=70",
+      "brand": "CAMPUS",
+      "title": "HURRICANE Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 1054,
+      "price": 1299,
+      "discountPersent": 18,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "High-performance running shoes designed for speed and endurance with hurricane technology."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/1/e/a/-original-imaghvb5mhwjjasb.jpeg?q=70",
+      "brand": "BRUTON",
+      "title": "Trendy Sports Running Running Shoes For Men",
+      "color": "Black",
+      "discountedPrice": 299,
+      "price": 1299,
+      "discountPersent": 76,
+      "size": [
+        { "name": "8", "quantity": 30 },
+        { "name": "9", "quantity": 35 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 25 }
+      ],
+      "quantity": 120,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Classic black sports running shoes offering great value with comfortable fit and durable construction."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/6/0/r/10-cb-fast-white-rocky-black-10-sfr-multicolor-original-imagmgsbundpa9at.jpeg?q=70",
+      "brand": "SFR",
+      "title": "FAST Trenddy Tainer Lace-ups Sporty Casuals Running Sho...",
+      "color": "White",
+      "discountedPrice": 489,
+      "price": 1699,
+      "discountPersent": 71,
+      "size": [
+        { "name": "9", "quantity": 20 },
+        { "name": "10", "quantity": 25 },
+        { "name": "11", "quantity": 20 },
+        { "name": "12", "quantity": 15 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Fast-paced trainer shoes with trendy design suitable for both sports and casual fashion wear."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/l1jmc280/shoe/m/y/z/6-innova-04cwhtsky-asian-white-original-imagd3atfhw3tdwh.jpeg?q=70",
+      "brand": "asian",
+      "title": "Running Shoes For Men",
+      "color": "White",
+      "discountedPrice": 1099,
+      "price": 1999,
+      "discountPersent": 45,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Innovative running shoes with advanced features for comfortable and efficient running experience."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/ky1vl3k0/shoe/z/b/j/8-cosco-tan-density-tan-original-imagaderx2s5znkj.jpeg?q=70",
+      "brand": "density",
+      "title": "COSCO Training & Gym Shoes For Men",
+      "color": "Tan",
+      "discountedPrice": 399,
+      "price": 999,
+      "discountPersent": 60,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Specialized training shoes designed for gym workouts with stability and support features."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/m/z/l/6-ori-9010-6-bersache-red-original-imagn69etxggadch.jpeg?q=70",
+      "brand": "BERSACHE",
+      "title": "Bersache Sports Shoes For Men|Red For Running,Walking,g...",
+      "color": "Red",
+      "discountedPrice": 649,
+      "price": 3842,
+      "discountPersent": 83,
+      "size": [
+        { "name": "8", "quantity": 15 },
+        { "name": "9", "quantity": 20 },
+        { "name": "10", "quantity": 15 },
+        { "name": "11", "quantity": 10 }
+      ],
+      "quantity": 60,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Bold red sports shoes designed for running, walking, and gym activities with premium features."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/l/n/4/-original-imaghvb4ew3j5x9v.jpeg?q=70",
+      "brand": "ASE",
+      "title": "Durable Performance Cricket Shoes with Dual Closure, La...",
+      "color": "White",
+      "discountedPrice": 939,
+      "price": 2250,
+      "discountPersent": 58,
+      "size": [
+        { "name": "8", "quantity": 15 },
+        { "name": "9", "quantity": 20 },
+        { "name": "10", "quantity": 15 },
+        { "name": "11", "quantity": 10 }
+      ],
+      "quantity": 60,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Professional cricket shoes with dual closure system and specialized spikes for pitch performance."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/n/2/oxygen-4-airdron-white-navy-original-imafywywmhjcsyhy-bb.jpeg?q=70",
+      "brand": "AIRDRON",
+      "title": "Oxygen Running Shoes For Men",
+      "color": "White",
+      "discountedPrice": 494,
+      "price": 1499,
+      "discountPersent": 67,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 20 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 80,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Oxygen-flow technology running shoes designed for breathability and comfort during intense workouts."
+    },
+    {
+      "imageUrl": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/f/x/q/9-chrome-01-asian-white-original-imaggaz54tgkqyq6.jpeg?q=70",
+      "brand": "asian",
+      "title": "Chrome-01 White Sports,Casual,Walking,Stylish Running S...",
+      "color": "White",
+      "discountedPrice": 1299,
+      "price": 2299,
+      "discountPersent": 43,
+      "size": [
+        { "name": "8", "quantity": 20 },
+        { "name": "9", "quantity": 25 },
+        { "name": "10", "quantity": 30 },
+        { "name": "11", "quantity": 15 }
+      ],
+      "quantity": 90,
+      "topLavelCategory": "Men",
+      "secondLavelCategory": "Footwear",
+      "thirdLavelCategory": "Shoes",
+      "description": "Premium chrome finish shoes suitable for sports, casual wear, and walking with stylish appearance."
+    }
+  ]
